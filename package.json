@@ -1,0 +1,11 @@
+{
+  "name": "web-test-runner-br",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "web-test-runner test.js"
+  },
+  "devDependencies": {
+    "@web/test-runner": "^0.7.21"
+  }
+}
